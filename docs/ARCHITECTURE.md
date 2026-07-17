@@ -1,0 +1,1 @@
+[Enhanced SwiftUI AI architecture doc]
