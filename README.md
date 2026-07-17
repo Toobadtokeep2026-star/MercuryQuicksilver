@@ -1,7 +1,10 @@
 # MercuryQuicksilver
 
-Mercury AI Assistant Version 2.
+Mercury AI Assistant - Version 2
 
-See /docs for rebuild and instructions.
+Native iOS SwiftUI app with personas, unified state, kernel, and Grok integration.
 
-Consolidated single source of truth.
+## Quick Start
+Open Mercury.xcodeproj in Xcode.
+
+See docs/REBUILD_SUMMARY.md
