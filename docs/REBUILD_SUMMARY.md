@@ -1,0 +1,1 @@
+Full rebuild summary from Drive... [paste key parts]
